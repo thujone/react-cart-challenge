@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'oswald';
+  src: url("/fonts/oswald-regular-webfont.woff2") format("woff2"), url("/fonts/oswald-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+html {
+  font-size: 100%;
+}
+
+body {
+  font: 0.75rem Helvetica-Neue, Helvetica, sans-serif;
+  color: #252;
+}
+
+h1 {
+  font: 2rem/2.5 oswald, Georgia, serif;
+  color: #353;
+}
+
+table {
+  border: 1px dashed #797;
+  border-bottom: none;
+}
+
+table th {
+  font: 1.5rem/1.5 oswald, Georgia, serif;
+  color: #353;
+  text-align: left;
+  border-bottom: 1px dashed #797;
+  padding: 10px;
+}
+
+table th.name {
+  width: 260px;
+}
+
+table th.price {
+  width: 65px;
+}
+
+table th.quantity {
+  width: 135px;
+  text-align: center;
+}
+
+table th.shipping {
+  width: 340px;
+}
+
+table th.total {
+  width: 70px;
+  text-align: center;
+}
+
+table td {
+  padding: 10px;
+  border-bottom: 1px dashed #797;
+  border-bottom: 1px dashed #797;
+}
+
+input[type=number] {
+  width: 40px;
+  font-size: .95rem;
+  color: #252;
+}
+
+button {
+  font: 0.95rem Helvetica-Neue, Helvetica, sans-serif;
+  color: #252;
+  margin-left: 10px;
+}
+
+input[type=radio] {
+  position: relative;
+  top: -2px;
+  margin-right: 10px;
+}
+
+.lead-time {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.item-amount,
+.allowance-label,
+.allowance-amount {
+  text-align: right;
+  padding: 10px;
+}
+
+.shipping-option {
+  margin-bottom: 1.25em;
+}
+
+.shipping-method {
+  margin-bottom: 4px;
+}
+
+.estimated-arrival {
+  margin-left: 25px;
+  font-size: .75em;
+  margin-top: 0;
+}

@@ -1,0 +1,16 @@
+{
+  "shoppingCartItems": [
+    {
+      "id": "5743a43aaf03dd6987babfae",
+      "name": "K&N Air Filter",
+      "salePriceUsd": 49.99,
+      "shippingLeadTimeDays": 0
+    },
+    {
+      "id": "5743a43ad593219e4e167ddf",
+      "name": "Weathertech All-Weather Floor Mats",
+      "salePriceUsd": 99.99,
+      "shippingLeadTimeDays": 5
+    }
+  ]
+}

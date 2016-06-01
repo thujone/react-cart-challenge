@@ -1,0 +1,14 @@
+{
+  "shipMethods": [
+    {
+      "name": "Standard Ground Shipping",
+      "priceUsd": 0,
+      "averageTransmitTimeDays": 5
+    },
+    {
+      "name": "Expedited Overnight Shipping",
+      "priceUsd": 5.99,
+      "averageTransmitTimeDays": 1
+    }
+  ]
+}
