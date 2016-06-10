@@ -1,9 +1,5 @@
 Shopping cart challenge for AutoAnything.
 
-This project uses ReactJS, Gulp, Webpack, and Babel. I've never really worked with any of these before (just a little Gulp in the past), so this is my virgin experience with React (yay!) -- beyond small examples in tutorials I've done.
-
-I've left a lot of comments in the code. I took a shopping cart module from a tutorial online, but I changed it substantially to make it work for me. The code is half by me, half by whoever wrote the tutorial.
-
 Here are some issues and caveats I'd like to point out:
 
 * I didn't worry about directory structure and organization too much.
